@@ -12,6 +12,6 @@ Secure TCP client-server programs for Data Communications class using TLS encryp
 ## How to run
 
 - Update to correct server IP in code
-- Run servers first udp_server.py/tcp_server.py
-- Then run clients udp_client.py/tcp_client.py
+- Run servers first tls_server.py
+- Then run client tls_client.py
 
