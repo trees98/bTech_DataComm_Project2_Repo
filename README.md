@@ -12,6 +12,8 @@ Secure TCP client-server programs for Data Communications class using TLS encryp
 ## How to run
 
 - Update to correct server IP in code
+- Create self-signed cert and private key
+- update location of cert files in code
 - Run servers first tls_server.py
 - Then run client tls_client.py
 
